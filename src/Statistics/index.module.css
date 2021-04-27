@@ -1,0 +1,13 @@
+.statistics {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+ul {
+    text-align: left;
+}
